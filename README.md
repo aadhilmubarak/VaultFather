@@ -115,7 +115,7 @@ You only need three free tools on your machine:
 
 1. Clone or download this repo:
    ```bash
-   git clone https://github.com//aadhilmubarak/VaultFather.git
+   git clone https://github.com/aadhilmubarak/VaultFather.git
    cd VaultFather
    ```
 2. Double-click **`run_vaultfather.bat`**.
